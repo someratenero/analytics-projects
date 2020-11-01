@@ -1,4 +1,4 @@
-# My acalitics projects
+# My analitics projects
 
 ## Project 1
 
