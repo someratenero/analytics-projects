@@ -1,7 +1,7 @@
 # Analytics projects
 
 |Project name|Goal|Used libraries|Stage|
-|:-|:---------------|:---|:------------|:--|
+|:-----------|:---|:-------------|:----|
 |[Creditors Reliability]()|Investigate the influence of lenders' parameters on loan repayment on time|Pandas, pymystem3|Need English translation, will be uploaded soon|
 |[Apartments for sale]()|Define the market value of residential properties and their main parameters |Pandas, Matplotlib.pyplot|Need English translation, will be uploaded soon|
 |[Best tariff for a telecom company]()|Investigate the behavior of mobile operator users and define the optimal tariff|pandas, numpy, scipy.stats, Matplotlib.pyplot|Need English translation, will be uploaded soon|
