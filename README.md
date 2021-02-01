@@ -4,7 +4,7 @@ All the projects were created in Russian, I'm translating them and adding to thi
 |Project name|Goal|Used libraries|Stage|
 |:-----------|:---|:-------------|:----|
 |[Creditors Reliability]()|Investigate the influence of lenders' parameters on loan repayment on time|Pandas, pymystem3| Will be uploaded soon|
-|[Apartments for sale]()|Define the market value of residential properties and their main parameters |Will be uploaded soon|
+|[Apartments for sale]()|Define the market value of residential properties and their main parameters|Pandas, Matplotlib.pyplot|Will be uploaded soon|
 |[Best tariff for a telecom company]()|Investigate the behavior of mobile operator users and define the optimal tariff|pandas, numpy, scipy.stats, Matplotlib.pyplot|Will be uploaded soon|
 |[Criteria for the computer games success]()|Identify patterns in the success of computer games, identify promising platforms|Pandas, Numpy, Matplotlib.pyplot, scipy.stats|Will be uploaded soon|
 |[Business analytics for an event website]()|Identify popular devices and user sources, find out which sources pay off the fastest and generate the most revenue|Pandas, Numpy, Matplotlib.pyplot, Seaborn|Will be uploaded soon|
