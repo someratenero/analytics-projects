@@ -1,17 +1,3 @@
-# Задача проекта
-
-Имеется список гипотез для увеличения выручки.
-
-В первой части отчета приоритизируем гипотезы.
-
-Во второй части запустим A/B-тест и проанализируем результаты.
-
-# Описание данных
-
-- В первом файле 9 гипотез по увеличению выручки интернет-магазина с указанными параметрами Reach, Impact, Confidence, Effort.
-- Во втором файле информация о заказах. 
-- В третьем файле информация об итогах  А/B эксперимента. 
-
-# Используемые библиотеки
-
-*pandas* 
+Project description|Used data|Tasks|Conclusions|Libraries|
+|:-|:-|:-|:-----|:-|
+|In an online store, we need to increase the average receipt and the conversion of users to buyers. Several hypotheses have been put forward to improve these indicators and we need to be prioritize them. The second part of the project is dedicated to the A/B test using which we need to find out whether the experiment was successful. |<ul><li>The first file contains 9 hypotheses for increasing the revenue of an online store with the specified parameters Reach, Impact, Confidence, and Effort.</li><li>The second file contains information about orders.</li><li>The third file contains information about the results of the A/B experiment. </li></ul>|<ul><li>Prioritize hypotheses for increasing the conversion rate and revenue of an online store using the ICE and RICE methods</li><li>Choose the most appropriate hypothesis for the experiment</li><li>Analyze the results of the A / B test using raw and filtered data (without outliers)</li><li>Check whether there are statistically significant differences between the experimental and control groups</li></ul>|<ul><li>There is a statistically significant difference in the conversion rate between the groups, both from raw data and after filtering the anomalies. </li><li>However, for both raw and filtered data, there is no statistically significant difference in the average check between the groups.</li><li>Based on the facts above, we should stop the test and admit that the experiment had a positive effect on the conversion rate, but did not affect the average check.</li></ul>|<ul><li>pandas</li><li>matplotlib.pyplot</li><li>numpy</li><li>scipy.stats</li></ul>|
