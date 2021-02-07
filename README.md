@@ -1,5 +1,5 @@
 # Analytics projects
-All the projects were created in Russian, I'm translating them and adding to this repository. 
+All the projects were created in Russian https://github.com/someratenero/Yandex-analytics-projects-ru, I'm translating them and adding to this repository. 
 
 |Project name|Goal|Used libraries|Stage|
 |:-----------|:---|:-------------|:----|
